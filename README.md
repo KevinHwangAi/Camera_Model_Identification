@@ -22,13 +22,12 @@ For this competition, the IEEE Signal Processing Society is challenging you to b
 
 这次使用的电脑硬件是i7-4770 16G Gtx960Ti,计算机的GPU算力非常一般,所以只能使用迁移学习进行建模与训练.
 
-深度学习框架:Keras,
-CNN模型:Resnet50
-训练图片集:2,750张(原始数据)
-Data Augmentation:将图片训练集增加至22,000张 (但因内存不足,最后只使用了一半的数据作训练.这个版本还没有使用生产器来传入数据,下个版本改进.)
-batch_size:60
-epoch:100
+**深度学习框架:Keras**
+**CNN模型:Resnet50**
+**训练图片集:2,750张(原始数据)**
+**Data Augmentation:将图片训练集增加至22,000张 **(但因内存不足,最后只使用了一半的数据作训练.这个版本还没有使用生产器来传入数据,下个版本改进.)
+**batch_size:60**
+**epoch:100**
 
 跑了约5个多小时,期间修改模型一次停了,最后提交Kaggle的test结果为55.3%.
-
 如果有比较好的电脑配置,可以试试将训练集增加更多,和使用层数更多的卷积模型.(攒钱等升级1080Ti x 4后,再折腾个高点的精度...CNN就是个壕的东西)
