@@ -14,8 +14,7 @@ This problem is actively studied by several researchers around the world. Many m
 For this competition, the IEEE Signal Processing Society is challenging you to build an algorithm that identifies which camera model captured an image by using traces intrinsically left in the image. Helping to solve this problem would have a big impact on the verification of evidence used in criminal and civil trials and even news reporting.
 在这场比赛中，IEEE信号处理协会正在挑战您构建一种算法，通过使用图像中原本留下的迹线来识别哪个相机模型拍摄了图像。帮助解决这个问题会对验证刑事和民事审判中使用的证据甚至新闻报道产生重大影响。
 
-#### [传送门](https://www.kaggle.com/c/sp-society-camera-model-identification#description)
-
+比赛的数据比较大(9G多),请移步到Kaggle下载.[传送门](https://www.kaggle.com/c/sp-society-camera-model-identification#description)
 
 #### 比赛心得:
 
