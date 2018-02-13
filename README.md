@@ -1,6 +1,6 @@
-# Camera_Model_Identification 相机型号识别(图像识别)()
+## Camera_Model_Identification 相机型号识别(图像识别)
 
-### 比赛要求:
+#### 比赛要求:
 
 Finding footage of a crime caught on tape is an investigator's dream. But even with crystal clear, damning evidence, one critical question always remains–is the footage real?
 找到录在磁带上的犯罪片段是调查人员的梦想。但即使有清晰明了的证据，一个关键问题总是存在 - 这些镜头是真实的吗？
@@ -17,7 +17,7 @@ For this competition, the IEEE Signal Processing Society is challenging you to b
 #### [传送门](https://www.kaggle.com/c/sp-society-camera-model-identification#description)
 
 
-### 比赛心得:
+#### 比赛心得:
 
 这次比赛,是我首次参加Kaggle上的图像识别类的数据竞赛(因之前一直使用Macbook).
 
